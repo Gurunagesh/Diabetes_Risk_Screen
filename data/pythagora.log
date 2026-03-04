@@ -1,0 +1,55 @@
+2026-03-04T11:41:37.906Z INFO Is remote: false
+2026-03-04T11:41:37.909Z INFO Starting Local. Installation path: c:\Users\chall\OneDrive\Desktop\final project\.git
+2026-03-04T11:41:37.911Z INFO [MainProvider] Creating new MainProvider instance...
+2026-03-04T11:41:37.914Z INFO [TabsManager] Code view listener set up at initialization
+2026-03-04T11:41:37.916Z INFO Installation path exists: c:\Users\chall\OneDrive\Desktop\final project\.git
+2026-03-04T11:41:37.918Z INFO Initializing database with URL: file:c:\Users\chall\OneDrive\Desktop\final project\.git\pythagora-core\data\database\pythagora.db
+2026-03-04T11:41:37.923Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-03-04T11:41:37.924Z INFO Database initialized successfully
+2026-03-04T11:41:37.925Z INFO [Migration] Checking for database migration...
+2026-03-04T11:41:38.005Z INFO [TabsManager] First file opened, triggering split view
+2026-03-04T11:41:38.006Z INFO [MainProvider] First file opened, creating split view
+2026-03-04T11:41:39.703Z INFO [Migration] No migration needed
+2026-03-04T11:42:13.540Z INFO [TabsManager] First file opened, triggering split view
+2026-03-04T11:42:13.544Z INFO [MainProvider] First file opened, creating split view
+2026-03-04T11:42:15.371Z INFO [TabsManager] First file opened, triggering split view
+2026-03-04T11:42:15.372Z INFO [MainProvider] First file opened, creating split view
+2026-03-04T11:42:17.735Z INFO [TabsManager] First file opened, triggering split view
+2026-03-04T11:42:17.736Z INFO [MainProvider] First file opened, creating split view
+2026-03-04T11:42:24.215Z INFO [TabsManager] First file opened, triggering split view
+2026-03-04T11:42:24.216Z INFO [MainProvider] First file opened, creating split view
+2026-03-04T11:42:41.541Z INFO [TabsManager] First file opened, triggering split view
+2026-03-04T11:42:41.541Z INFO [MainProvider] First file opened, creating split view
+2026-03-04T11:43:22.213Z INFO [TabsManager] First file opened, triggering split view
+2026-03-04T11:43:22.215Z INFO [MainProvider] First file opened, creating split view
+2026-03-04T11:43:36.433Z INFO [TabsManager] First file opened, triggering split view
+2026-03-04T11:43:36.434Z INFO [MainProvider] First file opened, creating split view
+2026-03-04T12:16:23.072Z INFO [TabsManager] First file opened, triggering split view
+2026-03-04T12:16:23.074Z INFO [MainProvider] First file opened, creating split view
+2026-03-04T12:16:31.389Z INFO [TabsManager] First file opened, triggering split view
+2026-03-04T12:16:31.390Z INFO [MainProvider] First file opened, creating split view
+2026-03-04T14:26:33.312Z INFO Closing entire Pythagora extension...
+2026-03-04T14:26:33.410Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+	at new rU (file:///c:/Users/chall/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120928)
+	at LE.U (file:///c:/Users/chall/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125538)
+	at r.<computed>.n.charCodeAt.r.<computed> (file:///c:/Users/chall/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123032)
+	at CA.g (file:///c:/Users/chall/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41231)
+	at CA.executeCommand (file:///c:/Users/chall/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40735)
+	at Object.executeCommand (file:///c:/Users/chall/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:213:104946)
+	at closeEntirePythagoraExtension (c:\Users\chall\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:542:31)
+	at Object.deactivate (c:\Users\chall\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\out\extension.js:409:15)
+	at pee.eb (file:///c:/Users/chall/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11880)
+	at file:///c:/Users/chall/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10030
+	at Array.map (<anonymous>)
+	at pee.$ (file:///c:/Users/chall/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10018)
+	at pee.terminate (file:///c:/Users/chall/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10261)
+	at nR.terminate (file:///c:/Users/chall/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+	at zr (file:///c:/Users/chall/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:11144)
+	at MessagePortMain.<anonymous> (file:///c:/Users/chall/AppData/Local/Programs/Microsoft%20VS%20Code/072586267e/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:7611)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+Extra context: {
+  "message": "Canceled"
+}
